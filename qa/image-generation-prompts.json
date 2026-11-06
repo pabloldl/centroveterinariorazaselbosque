@@ -1,0 +1,10 @@
+{
+  "mode": "builtin image_gen",
+  "images": [
+    {
+      "asset": "assets/images/animal-care-1024.jpg",
+      "original": "assets/images/originals/animal-care.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: illustrative animal photograph for an existing friendly veterinary website. Primary request: a natural candid close-up of a relaxed small adult mixed-breed dog with cream and caramel fur resting its chin gently on an adult person's open hand, in a softly lit ordinary home, no visible human face, no clinic. Dog eyes open and calm, friendly quiet connection, accurate natural canine anatomy, non-perfect fur texture, natural skin texture, authentic documentary pet photography, not glossy stock advertising. Landscape 3:2 composition, dog's face centered with ears fully inside frame and generous space around face for responsive cropping, clean softly blurred pale cream and muted blue background, subtle warm daylight, believable everyday setting. Palette harmonizes with existing pale blue #dff0f5, cream #fffefa and dark blue green #234f5b. No text, no logos, no watermark, no medical equipment, no uniform, no accessories, no second animal. This is generated illustrative imagery, not a patient of Centro Veterinario Razas El Bosque and not its premises or staff; it will be clearly labeled as such."
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "report": [
+    {
+      "viewport": 375,
+      "width": 375,
+      "scrollWidth": 375,
+      "height": 3070,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/visual.svg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/animal-care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-centro",
+          "ok": true
+        },
+        {
+          "case": "navigation-visita",
+          "ok": true
+        },
+        {
+          "case": "check-0",
+          "ok": true
+        },
+        {
+          "case": "check-1",
+          "ok": true
+        },
+        {
+          "case": "check-2",
+          "ok": true
+        },
+        {
+          "case": "uncheck",
+          "ok": true
+        },
+        {
+          "case": "reset-count",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 270.765625
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#centro",
+          "ok": true
+        },
+        {
+          "href": "#visita",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#centro",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#visita",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://zoo-vet.es/o16211-centro-veterinario-razas-el-bosque/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El centro",
+          "height": 44
+        },
+        {
+          "text": "La visita",
+          "height": 44
+        },
+        {
+          "text": "Contactar",
+          "height": 44
+        },
+        {
+          "text": "Llamar al centro",
+          "height": 52
+        },
+        {
+          "text": "He confirmado la dirección exacta.",
+          "height": 76
+        },
+        {
+          "text": "He consultado el horario y la disponibilidad.",
+          "height": 76
+        },
+        {
+          "text": "He preguntado qué debo llevar.",
+          "height": 76
+        },
+        {
+          "text": "+34 690 15 61 95",
+          "height": 56
+        },
+        {
+          "text": "Ver fuente del contacto",
+          "height": 44
+        },
+        {
+          "text": "Volver arriba",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3081,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/visual.svg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/animal-care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-centro",
+          "ok": true
+        },
+        {
+          "case": "navigation-visita",
+          "ok": true
+        },
+        {
+          "case": "check-0",
+          "ok": true
+        },
+        {
+          "case": "check-1",
+          "ok": true
+        },
+        {
+          "case": "check-2",
+          "ok": true
+        },
+        {
+          "case": "uncheck",
+          "ok": true
+        },
+        {
+          "case": "reset-count",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 271.578125
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#centro",
+          "ok": true
+        },
+        {
+          "href": "#visita",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#centro",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#visita",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://zoo-vet.es/o16211-centro-veterinario-razas-el-bosque/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El centro",
+          "height": 44
+        },
+        {
+          "text": "La visita",
+          "height": 44
+        },
+        {
+          "text": "Contactar",
+          "height": 44
+        },
+        {
+          "text": "Llamar al centro",
+          "height": 52
+        },
+        {
+          "text": "He confirmado la dirección exacta.",
+          "height": 76
+        },
+        {
+          "text": "He consultado el horario y la disponibilidad.",
+          "height": 76
+        },
+        {
+          "text": "He preguntado qué debo llevar.",
+          "height": 76
+        },
+        {
+          "text": "+34 690 15 61 95",
+          "height": 56
+        },
+        {
+          "text": "Ver fuente del contacto",
+          "height": 44
+        },
+        {
+          "text": "Volver arriba",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 768,
+      "width": 768,
+      "scrollWidth": 753,
+      "height": 3205,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/visual.svg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/animal-care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-centro",
+          "ok": true
+        },
+        {
+          "case": "navigation-visita",
+          "ok": true
+        },
+        {
+          "case": "check-0",
+          "ok": true
+        },
+        {
+          "case": "check-1",
+          "ok": true
+        },
+        {
+          "case": "check-2",
+          "ok": true
+        },
+        {
+          "case": "uncheck",
+          "ok": true
+        },
+        {
+          "case": "reset-count",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 257.328125
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#centro",
+          "ok": true
+        },
+        {
+          "href": "#visita",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#centro",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#visita",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://zoo-vet.es/o16211-centro-veterinario-razas-el-bosque/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El centro",
+          "height": 44
+        },
+        {
+          "text": "La visita",
+          "height": 44
+        },
+        {
+          "text": "Contactar",
+          "height": 46
+        },
+        {
+          "text": "Llamar al centro",
+          "height": 52
+        },
+        {
+          "text": "He confirmado la dirección exacta.",
+          "height": 73
+        },
+        {
+          "text": "He consultado el horario y la disponibilidad.",
+          "height": 73
+        },
+        {
+          "text": "He preguntado qué debo llevar.",
+          "height": 73
+        },
+        {
+          "text": "+34 690 15 61 95",
+          "height": 56
+        },
+        {
+          "text": "Ver fuente del contacto",
+          "height": 44
+        },
+        {
+          "text": "Volver arriba",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1425,
+      "height": 2368,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/visual.svg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/animal-care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-centro",
+          "ok": true
+        },
+        {
+          "case": "navigation-visita",
+          "ok": true
+        },
+        {
+          "case": "check-0",
+          "ok": true
+        },
+        {
+          "case": "check-1",
+          "ok": true
+        },
+        {
+          "case": "check-2",
+          "ok": true
+        },
+        {
+          "case": "uncheck",
+          "ok": true
+        },
+        {
+          "case": "reset-count",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 512.859375
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#centro",
+          "ok": true
+        },
+        {
+          "href": "#visita",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#centro",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#visita",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://zoo-vet.es/o16211-centro-veterinario-razas-el-bosque/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El centro",
+          "height": 46
+        },
+        {
+          "text": "La visita",
+          "height": 46
+        },
+        {
+          "text": "Contactar",
+          "height": 46
+        },
+        {
+          "text": "Llamar al centro",
+          "height": 53
+        },
+        {
+          "text": "He confirmado la dirección exacta.",
+          "height": 73
+        },
+        {
+          "text": "He consultado el horario y la disponibilidad.",
+          "height": 73
+        },
+        {
+          "text": "He preguntado qué debo llevar.",
+          "height": 73
+        },
+        {
+          "text": "+34 690 15 61 95",
+          "height": 60
+        },
+        {
+          "text": "Ver fuente del contacto",
+          "height": 44
+        },
+        {
+          "text": "Volver arriba",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1920,
+      "width": 1920,
+      "scrollWidth": 1905,
+      "height": 2522,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/visual.svg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/animal-care-1024.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-centro",
+          "ok": true
+        },
+        {
+          "case": "navigation-visita",
+          "ok": true
+        },
+        {
+          "case": "check-0",
+          "ok": true
+        },
+        {
+          "case": "check-1",
+          "ok": true
+        },
+        {
+          "case": "check-2",
+          "ok": true
+        },
+        {
+          "case": "uncheck",
+          "ok": true
+        },
+        {
+          "case": "reset-count",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 511.015625
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#centro",
+          "ok": true
+        },
+        {
+          "href": "#visita",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#centro",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#visita",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34690156195",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://zoo-vet.es/o16211-centro-veterinario-razas-el-bosque/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        }
+      ],
+      "targets": [
+        {
+          "text": "El centro",
+          "height": 46
+        },
+        {
+          "text": "La visita",
+          "height": 46
+        },
+        {
+          "text": "Contactar",
+          "height": 46
+        },
+        {
+          "text": "Llamar al centro",
+          "height": 53
+        },
+        {
+          "text": "He confirmado la dirección exacta.",
+          "height": 73
+        },
+        {
+          "text": "He consultado el horario y la disponibilidad.",
+          "height": 73
+        },
+        {
+          "text": "He preguntado qué debo llevar.",
+          "height": 73
+        },
+        {
+          "text": "+34 690 15 61 95",
+          "height": 60
+        },
+        {
+          "text": "Ver fuente del contacto",
+          "height": 44
+        },
+        {
+          "text": "Volver arriba",
+          "height": 44
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "reducedMotion": {
+    "scroll": "auto",
+    "animations": 0,
+    "revealVisible": true
+  },
+  "noJs": {
+    "h1": 1,
+    "revealVisible": true,
+    "anchors": true
+  }
+}
